@@ -1,1 +1,1 @@
-# INF556-parallel
+# INF560-parallel
