@@ -1,0 +1,4 @@
+/*
+Holds implementation for work decomposition.
+This strategy is applied when the number of patterns is greater than the MPI RANK
+*/
